@@ -6,6 +6,8 @@ This is my rendition of the Pixel Art Maker project in the Google Front End Web 
 Please give it a a try. 
 I hope that you enjoy it.
 
+Check out the Dustin image I made as a sample.
+
 # Install
 git clone https://github.com/skilltron/Pixel_Art_Maker
 Open index.html in your web browser
